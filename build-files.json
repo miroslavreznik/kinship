@@ -1,15 +1,16 @@
 {
   ".nojekyll": 0,
-  "AI-DISCLOSURE.md": 1443,
+  "AI-DISCLOSURE.md": 1524,
+  "build-files.json": 833,
   "credits.html": 829,
-  "CREDITS.md": 622,
+  "CREDITS.md": 691,
   "favicon.ico": 1309,
   "GODOT-LICENSES.txt": 112883,
   "index.audio.position.worklet.js": 2973,
   "index.audio.worklet.js": 7298,
   "index.html": 5297,
   "index.js": 279815,
-  "index.pck": 6316824,
+  "index.pck": 7873644,
   "index.png": 836,
   "index.wasm": 39514754,
   "kinship-icon-180.png": 1057,
@@ -22,5 +23,6 @@
   "licenses/ansimuz-forest-CC0.pdf": 834989,
   "licenses/ansimuz-legacy-CC0.pdf": 834989,
   "licenses/ansimuz-town-CC0.pdf": 834989,
-  "licenses/ansimuz-warped-city-CC0.pdf": 834989
+  "licenses/ansimuz-warped-city-CC0.pdf": 834989,
+  "licenses/mystery-pack-3.txt": 484
 }
