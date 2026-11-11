@@ -6,4 +6,4 @@ Art and music by **Luis Zuno / Ansimuz**. The menu track is **One Tree Forest** 
 
 Lucky artwork: **daitosem**. Lucky character: **MSI**. Engine: **Godot 4.7.2**, MIT licence.
 
-Asset licences are included in `licenses/`; engine notices in `GODOT-LICENSES.txt`. The source asset register is `game/assets/manifest.json`. Development disclosure and artwork history are recorded separately in `AI-DISCLOSURE.md`.
+Asset licences are in `licenses/` and engine notices are in `GODOT-LICENSES.txt`. The source asset register is `game/assets/manifest.json`. Development disclosure is recorded in `AI-DISCLOSURE.md`.
