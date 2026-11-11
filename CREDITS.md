@@ -1,8 +1,8 @@
 # Kinship: Overclock
 
-Created by **daitosem** — [daitosem.itch.io](https://daitosem.itch.io/).
+Created by **daitosem**. [daitosem.itch.io](https://daitosem.itch.io/)
 
-Art and music: **Luis Zuno / Ansimuz** — [ansimuz.itch.io](https://ansimuz.itch.io/). Menu music: **One Tree Forest** (Mystery Music Collection Pack 3). Other licensed assets: Legacy Collection, GothicVania Town, Warped City, the parallax forest pack and ACTION PACK 1.
+Art and music by **Luis Zuno / Ansimuz**. The menu track is **One Tree Forest** from Mystery Music Collection Pack 3. Other licensed assets come from Legacy Collection, GothicVania Town, Warped City, the parallax forest pack and ACTION PACK 1. [ansimuz.itch.io](https://ansimuz.itch.io/)
 
 Lucky artwork: **daitosem**. Lucky character: **MSI**. Engine: **Godot 4.7.2**, MIT licence.
 

@@ -1,4 +1,4 @@
-# Kinship: Overclock — browser playtest
+# Kinship: Overclock browser playtest
 
 Play: https://miroslavreznik.github.io/kinship/
 

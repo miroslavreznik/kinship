@@ -9,7 +9,7 @@
   <link rel="icon" href="kinship-icon-32.png" type="image/png" sizes="32x32">
   <link rel="apple-touch-icon" href="kinship-icon-180.png">
   <link rel="manifest" href="site.webmanifest">
-  <title>Kinship: Overclock — Play</title>
+  <title>Kinship: Overclock</title>
   <meta name="description" content="One family. Three lifetimes. A puzzle platformer across past, present and future.">
   <style>
     *{box-sizing:border-box}
@@ -42,11 +42,11 @@
     <canvas id="canvas" width="1152" height="648" tabindex="0" aria-label="Game canvas. Keyboard controls are available in Settings.">Your browser needs WebGL 2 to play.</canvas>
     <div id="status" role="status" aria-live="polite"><img class="brand-icon" src="kinship-icon-64.png" width="64" height="64" alt=""><h1>KINSHIP</h1><p>One family. Three lifetimes.</p><progress id="progress"></progress><p id="notice">Loading the game…</p></div>
   </section>
-  <footer><span>Play with a keyboard · Progress stays in this browser</span><nav><a href="credits.html" target="_blank" rel="noopener">Credits</a><button id="fullscreen" type="button">Fullscreen</button></nav></footer>
+  <footer><span>Use a keyboard. Your progress is saved in this browser.</span><nav><a href="credits.html" target="_blank" rel="noopener">Credits</a><button id="fullscreen" type="button">Fullscreen</button></nav></footer>
 </main>
 <script src="index.js"></script>
 <script>
-  const config = {"args":[],"canvasResizePolicy":0,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":7105544,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
+  const config = {"args":[],"canvasResizePolicy":0,"emscriptenPoolSize":8,"ensureCrossOriginIsolationHeaders":true,"executable":"index","experimentalVK":false,"fileSizes":{"index.pck":7111624,"index.wasm":39514754},"focusCanvas":true,"gdextensionLibs":[],"godotPoolSize":4};
   const params = new URLSearchParams(location.search);
   if (params.get('qa') === '1') {
     config.args = [...(config.args || []), '--', '--web-qa'];
@@ -67,7 +67,7 @@
   function fail(error) {
     console.error(error);
     progress.hidden = true;
-    notice.textContent = 'The game could not start. Try a current desktop browser and reload this page.';
+    notice.textContent = 'The game could not start. Reload this page in an up-to-date desktop browser.';
     window.kinshipLoadError = String(error);
   }
   const missing = Engine.getMissingFeatures({threads: false});
